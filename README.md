@@ -39,7 +39,7 @@ Ce projet présente une analyse des écarts entre les dépenses prévues (budget
 ---
 
 ## 🖼️ Aperçu
-![Aperçu du tableau de bord](Apercu.png)
+![Aperçu du tableau de bord](Aperçu.png)
 
 ---
 
