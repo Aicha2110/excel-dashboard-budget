@@ -59,7 +59,7 @@ Une courte vidéo de présentation est disponible dans le dépôt : `BudjetvsRea
 | Fichier | Description |
 |--------|-------------|
 | `BudjetvsRealisé1.xlsx` | Fichier Excel contenant le tableau de bord |
-| `dashboard_apercu.png` | Capture d’écran du tableau |
+| `Aperçu.png` | Capture d’écran du tableau |
 | `BudjetvsRealisé1_demo.mp4` | Démonstration vidéo |
 | `README.md` | Présentation du projet |
 
